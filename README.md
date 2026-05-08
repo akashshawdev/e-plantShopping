@@ -2,6 +2,8 @@
 
 A React + Redux shopping cart application for browsing and purchasing beautiful houseplants.
 
+Live Demo🔴: https://akashshawdev.github.io/e-plantShopping/
+
 ## Project Overview
 
 Paradise Nursery is a front-end e-commerce application built with React and Redux Toolkit. It allows users to browse a curated selection of houseplants, add them to a shopping cart, and manage their cart before checkout.
